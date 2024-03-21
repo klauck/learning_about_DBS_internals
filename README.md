@@ -1,7 +1,7 @@
 # Simplicity in Learning about Database System Internals
 Hands-on Examples and Learnings about Database System (DBS) Internals
 
-## Work in progress: Will be filled with the paper content on March 21.
+## Work in progress: Will be further filled within the next weeks..
 
 
 ## Hand-On Examples for Learning and Teaching DBS Internals
@@ -64,10 +64,36 @@ Sources of detailed information:
 
 ## General Material for Learning DBS Internals
 
+see also [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
+
 ### Textbooks
+
+* Garcia-Molina, Ullman, and Widom: [Database Systems - The Complete Book](http://infolab.stanford.edu/~ullman/dscb.html)
+
+* Silberschatz, Korth, and Sudarshan: [Database System Concepts](https://www.db-book.com/)
+
+* Ramakrishnan and Gehrke: [Database Management Systems](https://pages.cs.wisc.edu/~dbbook/)
 
 ### Papers, Conferences, and Workshops
 
+* Bailis, Hellerstein, and Stonebraker: [Readings in Database Systems](http://www.redbook.io)
+
+* Colyer: [the morning paper](https://blog.acolyer.org/)
+
 ### Advanced Courses and Lecture Series
 
+* [CMU Advanced Database Systems](https://15721.courses.cs.cmu.edu/)
+
+* [Dutch Seminar on Data Systems Design](https://dsdsd.da.cwi.nl/)
+
+* [Lecture series of German universities](https://hpi.de/rabl/teaching/winter-term-2023-24/lecture-series-on-database-research.html)
+
 ### Blogs, Mailing Lists, Social Networks, the Internet
+
+* [Database Architects](http://databasearchitects.blogspot.com/)
+
+* [Postgres Weekly](https://postgresweekly.com/)
+
+* [The 1995 SQL Reunion: People, Projects, and Politics](https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html)
+
+* [The "Stream Team" Page](http://infolab.stanford.edu/sdt/)
